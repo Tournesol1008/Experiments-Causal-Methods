@@ -11,11 +11,9 @@ The company has just hired a director of analytics and she proposed systematical
   
 The file “clinicsales.csv” available on the course site has the results of the experiment. Here is a list of the variables:  
   
-*clinicnumber: The id of the clinic. These were randomly assigned and have no underlying meaning.
-*numdoctors: The number of doctors working at the clinic
-*avgpanelsize: An estimate of the average number of patients each of the doctors at this clinic has in 
-*their panel. These are patients who list the doctor as their primary care physician. 
-*distance: The distance (in miles) between the clinic and the sales office assigned to pitch that clinic. 
-*treatment: Takes value 0 for control, 1 for Treatment 1, 2 for Treatment 2
-*purchase: Takes a value of 0 if the clinic declined to purchase test kits from EMS and 1 if they did 
-*purchase test kits from EMS. 
+* clinicnumber: The id of the clinic. These were randomly assigned and have no underlying meaning.  
+* numdoctors: The number of doctors working at the clinic  
+* avgpanelsize: An estimate of the average number of patients each of the doctors at this clinic has in their panel. These are patients who list the doctor as their primary care physician.   
+* distance: The distance (in miles) between the clinic and the sales office assigned to pitch that clinic.   
+* treatment: Takes value 0 for control, 1 for Treatment 1, 2 for Treatment 2  
+* purchase: Takes a value of 0 if the clinic declined to purchase test kits from EMS and 1 if they did purchase test kits from EMS. 
